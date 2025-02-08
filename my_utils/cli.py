@@ -1,7 +1,7 @@
 #!/usr/bin/env python
-import time
 import argparse
-from core import generate_qr, format_base64  # функции из бизнес-логики
+
+from core import format_base64, generate_qr  # функции из бизнес-логики
 
 
 def main():

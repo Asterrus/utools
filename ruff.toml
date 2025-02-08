@@ -7,6 +7,5 @@ indent-style = "space"
 docstring-code-format = true
 
 [lint]
-select = ["E"]
-#select = ["E", "F", "I"]
+select = ["E", "F", "I"]
 

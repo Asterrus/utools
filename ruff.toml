@@ -1,0 +1,10 @@
+line-length = 99
+indent-width = 4
+
+[format]
+quote-style = "single"
+indent-style = "space"
+docstring-code-format = true
+
+[lint]
+select = ["E", "F", "I"]
